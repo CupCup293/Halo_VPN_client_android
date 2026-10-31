@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Halo" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/halo_bg</item>
+    </style>
+    <color name="halo_bg">#F4F5F9</color>
+</resources>
